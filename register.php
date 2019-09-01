@@ -74,5 +74,6 @@ width: 200px;
             </p>
   </form>
     
-    </body
+	</body>
+</html>
   
